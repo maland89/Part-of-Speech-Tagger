@@ -18,7 +18,7 @@ Alternatively, you can download a copy of the project from GitHub [here](https:/
 
 1. Open a terminal and clone the project repository:
 ```
-$ git clone https://github.com/udacity/hmm-tagger
+$ https://github.com/maland89/Part-of-Speech-Tagger.git
 ```
 
 3. Switch to the project folder and create a conda environment (note: you must already have Anaconda installed):
